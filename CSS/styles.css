@@ -779,8 +779,8 @@ a {
 }
 
 .feature {
-  gap: 4rem 2rem;
-  margin: 12rem 0;
+  gap: 2rem 2rem;
+  margin: 6rem 0;
 }
 
 .feature:first-of-type {
@@ -801,6 +801,7 @@ a {
 
 .block-showcase__image > img {
   width: 100;
+  max-width: 230px;
 }
 
 @media screen and (min-width: 768px) {
